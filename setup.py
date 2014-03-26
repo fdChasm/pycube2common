@@ -6,7 +6,7 @@ packages = [
 ]
 
 setuptools.setup(
-    name="cube2common",
+    name="pycube2common",
     version="0.1",
     packages=packages,
     package_dir={'' : 'src'},
